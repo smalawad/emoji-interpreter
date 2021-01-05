@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(198, 248, 198);
+}
+input {
+  padding: 1rem;
+  width: 70%;
+  background-color: rgb(229, 248, 194);
+}
